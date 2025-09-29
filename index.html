@@ -111,6 +111,20 @@
           <button type="submit" class="bg-primary text-white px-8 py-3 rounded-full hover:bg-accent transition pulse-hover">Send Message</button>
         </form>
       </div>
+      <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+        <script>
+            emailjs.init("kdMQjx9F4G18BaNgh"); 
+
+            document.getElementById('contact-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                emailjs.sendForm('service_itvhknn', 'template_fa4d0eu', this)
+                    .then(() => {
+                        alert('Message sent!');
+                    }, (err) => {
+                        alert('Failed to send: ' + JSON.stringify(err));
+                    });
+            });
+        </script>
     </section> 
     <!--Footer-->
     <footer class="bg-gray-900 text-white py-8 px-4 text-center">
