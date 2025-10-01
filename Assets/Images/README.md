@@ -1,1 +1,1 @@
-Images use in Website are kept in this folder.
+All images use in this website are kept in this directory.
