@@ -1,1 +1,1 @@
-Theme Toggle Button Setting Are All Handle From This Folder Directory.
+The theme of website is assist from this directory.
