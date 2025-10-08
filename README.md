@@ -18,8 +18,8 @@ hack2skill
 classcentral
 course
 
-Networking Communication :-
-LinkedIn
+#Networking Communication :-
+#LinkedIn
 
 Reading :-
 Google play book
@@ -28,6 +28,6 @@ Internet Archieve
 
 #Games :-
 #FF
-Township
+#Township
 Subway suffers
 ludo
