@@ -10,7 +10,6 @@ snapchat
 
 Coding :-
 W3School
-Github
 Google CLoud
 Google garages
 Google developer program 
@@ -18,8 +17,11 @@ hack2skill
 classcentral
 course
 
-#Networking Communication :-
+Professional networking platform:-
 #LinkedIn
+GitHub
+Reddit
+Discord
 
 Reading :-
 Google play book
