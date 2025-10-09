@@ -5,7 +5,6 @@ Social Media :-
 #facebook
 #twitter 
 #thereads
-Discord
 snapchat
 
 Coding :-
